@@ -1,0 +1,48 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+73
+'Este flujograma indica si el promedio de 3 numeros es mayor o menor a 6'
+4
+1
+19
+'Ingresar numeros' 
+5
+1
+4
+num1
+5
+1
+4
+num2
+5
+1
+4
+num3
+6
+1
+4
+prom
+22
+(num1 + num2 + num3)/3
+7
+0
+1
+8
+prom > 6
+4
+1
+26
+'El promedio es menor a 6'
+13
+4
+1
+26
+'El promedio es mayor a 6'
+13
+1

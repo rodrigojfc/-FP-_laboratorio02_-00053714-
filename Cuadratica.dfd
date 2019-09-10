@@ -1,0 +1,55 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+53
+'Ingrese los valores de a, b y c, para la cuadratica'
+5
+1
+1
+a
+5
+1
+1
+b
+5
+1
+1
+c
+6
+1
+1
+d
+13
+(b*b)-(4*a*c)
+7
+1
+1
+5
+d < 0
+4
+1
+47
+'La raiz es imaginaria, no tiene solucion real'
+13
+6
+2
+2
+x1
+18
+(-b+sqrt(d))/(2*a)
+2
+x2
+18
+(-b-sqrt(d))/(2*a)
+4
+1
+57
+'La raiz positiva es: ', x1,'
+La raiz negativa es: ', x2
+13
+1
